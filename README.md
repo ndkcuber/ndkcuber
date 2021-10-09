@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ndkcuber
 - 👀 I’m interested in playing games and coding things
-- 🌱 I’m currently learning html,css and some other kind of coding languages
+- 🌱 I’m currently learning html,css,java,javascript and some other kind of coding languages
 - 📫 How to reach me : lmaoboi1807@gmail.com
 
 <!---
