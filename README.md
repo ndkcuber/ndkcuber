@@ -1,6 +1,6 @@
 Just a student who studies C++, html, css, python, php, javascript, java,...
 
-https://discord.c99.nl/widget/theme-1/525500996185489428.png
+<img src="https://discord.c99.nl/widget/theme-1/525500996185489428.png"></img>
 
 
 
