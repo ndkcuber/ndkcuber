@@ -1,8 +1,8 @@
 ### Just a student who studies C++, html, css, python, php, javascript, java,...
 
-<img src="https://github-readme-stats.vercel.app/api?username=ndkcuber&show_icons=true&theme=radical"></img>
+### <img src="https://github-readme-stats.vercel.app/api?username=ndkcuber&show_icons=true&theme=radical"></img>
 
-<h1>Usually skid things from other people</h1>
+### Usually skid things from other people
 
 
 
