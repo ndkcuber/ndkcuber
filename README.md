@@ -1,6 +1,4 @@
-- Just a student who studies C++, html, css, python, php, javascript, java,...
-
-<img src="https://github.com/ndkcuber/ndkcuber/blob/main/komaru.gif" style="width=100px">
+### Just a student who studies C++, html, css, python, php, javascript, java,...
 
 <img src="https://github-readme-stats.vercel.app/api?username=ndkcuber&show_icons=true&theme=radical"></img>
 
