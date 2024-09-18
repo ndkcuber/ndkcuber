@@ -2,8 +2,8 @@
 
 ### <img src="https://github-readme-stats.vercel.app/api?username=ndkcuber&show_icons=true&theme=radical"></img>
 
-### Usually skid things from other people
-
+## Usually skid things from other people
+## I aint have any skills ngl
 
 
 
